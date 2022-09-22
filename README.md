@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<p>
 
 <a href="https://github.com/pachinko2821/pachinko2821">
   <img src="https://github-readme-stats.vercel.app/api?username=pachinko2821&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true" alt="Pachinko2821's GitHub Stats" />
