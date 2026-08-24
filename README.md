@@ -17,14 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>
-
-<a href="https://github.com/pachinko2821/pachinko2821">
-  <img src="https://github-readme-stats.vercel.app/api?username=pachinko2821&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true" alt="Pachinko2821's GitHub Stats" />
-</a>
-<br>
-<a href="https://github.com/pachinko2821/pachinko2821">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pachinko2821&show_icons=true&theme=github_dark&langs_count=3&layout=compact&hide_border=false" />
-</a>
-
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=pachinko2821&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github-stats-extended.vercel.app/api?username=pachinko2821&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=vue-dark)
